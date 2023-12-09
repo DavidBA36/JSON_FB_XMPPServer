@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/03/25 19:56:56.000.400,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/25 20:26:53.000.411,E:\PROGRAMACION\XMPPServer\uThreadPrimario.dfm=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/03/25 20:26:53.000.411,E:\PROGRAMACION\XMPPServer\uThreadPrimario.pas=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/25 20:26:59.000.339,E:\PROGRAMACION\XMPPServer\XMPPServer.dproj=C:\Users\David\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/03/25 20:28:30.000.547,=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+    <Transaction>2016/03/25 20:28:40.000.687,E:\PROGRAMACION\XMPPServer\uXMLPaser.pas=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+    <Transaction>2016/03/26 00:00:52.000.340,E:\PROGRAMACION\XMPPServer\uXMLServerParser.pas=E:\PROGRAMACION\XMPPServer\uXMLPaser.pas</Transaction>
+    <Transaction>2016/03/26 00:01:49.000.173,=E:\PROGRAMACION\XMPPServer\Unit2.pas</Transaction>
+    <Transaction>2016/03/26 00:02:10.000.857,E:\PROGRAMACION\XMPPServer\uXMPPServerHelper.pas=E:\PROGRAMACION\XMPPServer\Unit2.pas</Transaction>
+    <Transaction>2016/03/26 00:02:10.000.857,E:\PROGRAMACION\XMPPServer\uXMPPServerHelper.dfm=E:\PROGRAMACION\XMPPServer\Unit2.dfm</Transaction>
+    <Transaction>2016/03/26 00:02:49.000.777,=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+    <Transaction>2016/03/26 00:03:13.000.148,E:\PROGRAMACION\XMPPServer\uXMPPServerHelper.pas=</Transaction>
+    <Transaction>2016/03/26 00:03:19.000.869,E:\PROGRAMACION\XMPPServer\uXMPPServerHelper.pas=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+    <Transaction>2016/03/26 00:53:39.000.365,=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+    <Transaction>2016/03/26 00:54:39.000.216,E:\PROGRAMACION\XMPPServer\XMPPServerSASLCrypt.pas=E:\PROGRAMACION\XMPPServer\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
